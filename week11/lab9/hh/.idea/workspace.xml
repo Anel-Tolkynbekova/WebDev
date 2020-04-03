@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ae5720f-7839-474a-a55d-feacd61ad9e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZzptZrqxUq8yDfTiX5TCIraJBO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ae5720f-7839-474a-a55d-feacd61ad9e3" name="Default Changelist" comment="" />
+      <created>1585851992005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585851992005</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585854081094">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1585854081094" />
+    <state x="421" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585866322831">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="421" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1585866322831" />
+    <state x="263" y="84" key="DBNavigator.DatasetFilterDialog" timestamp="1585865745190">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="84" key="DBNavigator.DatasetFilterDialog/0.0.1366.738@0.0.1366.738" timestamp="1585865745190" />
+    <state x="430" y="211" key="DBNavigator.DatasetRecordEditorDialog" timestamp="1585866430443">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="430" y="211" key="DBNavigator.DatasetRecordEditorDialog/0.0.1366.738@0.0.1366.738" timestamp="1585866430443" />
+    <state x="213" y="24" key="DBNavigator.ProjectSettingsDialog" timestamp="1585865528357">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="24" key="DBNavigator.ProjectSettingsDialog/0.0.1366.738@0.0.1366.738" timestamp="1585865528357" />
+    <state x="480" y="211" key="DBNavigator.ResultSetRecordViewerDialog" timestamp="1585866997104">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="480" y="211" key="DBNavigator.ResultSetRecordViewerDialog/0.0.1366.738@0.0.1366.738" timestamp="1585866997104" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1585865523544">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1585865523544" />
+  </component>
+</project>
